@@ -1,3 +1,7 @@
+
+![image](https://github.com/Pelummy11/Fresh-Segments/assets/47598173/8ef6ffeb-3b1b-4f0e-9ca6-52083f21a2ff)
+
+
 # Fresh-Segments
 Fresh Segments, a digital marketing agency that helps other businesses analyse trends in online ad click behaviour for their unique customer base.
 Clients share their customer lists with the Fresh Segments team who then aggregate interest metrics and generate a single dataset worth of metrics for further analysis.
