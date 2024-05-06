@@ -9,7 +9,7 @@ Clients share their customer lists with the Fresh Segments team who then aggrega
 In particular - the composition and rankings for different interests are provided for each client showing the proportion of their customer list who interacted with online assets related to each interest for each month.
 
 Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
-
+Case Study : https://8weeksqlchallenge.com/case-study-8/
 
 ### Available Data
 For this case study there is a total of 2 datasets which will used to solve the questions.
