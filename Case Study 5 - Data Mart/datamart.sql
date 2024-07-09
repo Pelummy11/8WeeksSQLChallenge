@@ -206,5 +206,5 @@ SELECT
 FROM before_after
 GROUP BY year
 
----NB date before change: 2020-06-08, date after change: 2020-06-15
+
 
